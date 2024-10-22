@@ -1,0 +1,40 @@
+body{
+background-color: rgb(2, 92, 36);
+color:rgb(236, 225, 225);
+font-family: "Rubik Distressed", system-ui;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 800px;
+margin: 0;
+}
+
+button{
+      
+background-color: rgb(7, 241, 132);
+color:rgb(17, 7, 7);
+font-family: "Rubik Distressed", system-ui;
+
+}
+
+
+.passo {
+    display: none;
+}
+.passo.ativo {
+    display:block;
+}
+
+main {
+    text-align: center;
+    max-width: 90%;
+}
+
+img {
+    max-width: 90%;
+}
+
+
+
+
+
